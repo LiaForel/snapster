@@ -8,7 +8,7 @@ flask-paginate==0.6.0
 Flask-SQLAlchemy==2.4.1
 Flask-WTF==0.14.3
 itsdangerous==1.1.0
-Jinja2==2.11.1
+Jinja2==2.11.3
 MarkupSafe==1.1.1
 mysql-connector-python==8.0.19
 Pillow==7.0.0
